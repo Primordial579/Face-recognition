@@ -4,7 +4,7 @@ A real-time facial recognition system using webcam-based registration and login 
 
 ## 🌐 Live Demo
 
-- **Frontend**: [https://primordial579.github.io/Facerecog/facerecog.html](https://primordial579.github.io/Facerecog/facerecog.html)
+- **Frontend**: [https://primordial579.github.io/Facerecog/facerecog.html](https://primordial579.github.io/Face-recognition/facerecog.html)
 
 
 ## ✨ Features
